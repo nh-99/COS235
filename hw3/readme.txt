@@ -1,0 +1,2 @@
+This program accepts three unique integers and figures out which one is in the middle, then sets all of the variables
+to the middle number and prints them. It is an example of how you can override scope in C.
